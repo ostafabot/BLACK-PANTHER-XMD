@@ -26,14 +26,14 @@ let DATA = DataHelp.dataGet('eddu');
       SewQueen.IntroduceCMD({pattern: 'edu', fromMe: WorkType, desc: DATA.ADU}, (async (message, input) => {
     var r_text = new Array ();
 
-    r_text[0] = "https://i.ibb.co/N6XtRj0/depositphotos-75811621-stock-photo-students-outside-sitting-on-steps.jpg";
-    r_text[1] = "https://i.ibb.co/z2bGpp3/college-life-group-students-walking-university-hall-chatting-138545920.jpg";
-    r_text[2] = "https://i.ibb.co/PGgBJy0/images-1.jpg";
-    r_text[3] = "https://i.ibb.co/DYFjXcJ/unnamed.jpg";
-    r_text[4] = "https://i.ibb.co/vQLYfWq/edupaper590.jpg";
-    r_text[5] = "https://i.ibb.co/KzCdHpf/q63YzR.jpg";
-    r_text[6] = "https://i.ibb.co/6vcWvr4/education-wallpaper-1796152.jpg";
-    r_text[7] = "https://i.ibb.co/qg31zV0/photo-1503676260728-1c00da094a0b.jpg";
+    r_text[0] = "https://i.imgur.com/NpA3ZsJ.jpeg";
+    r_text[1] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[2] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[3] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[4] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[5] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[6] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
+    r_text[7] = "https://telegra.ph/file/c158e9d568fb35ee6c52a.jpg";
 
     var i = Math.floor(8*Math.random())
 
